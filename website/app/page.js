@@ -1,4 +1,5 @@
 import { site } from '../lib/site';
+
 const features = [
   ['Steer & shoot', 'Drag to move your squad. It fires automatically, and your shots upgrade the gates ahead.'],
   ['Pick the right gate', 'Add, multiply or avoid. Every choice changes the size of your squad.'],
@@ -7,6 +8,7 @@ const features = [
   ['Shop & skins', 'Earn coins, then upgrade your starting squad, your gun and your squad colours.'],
   ['Free, no real-money purchases', 'Coins are earned by playing. Progress is saved on your device.'],
 ];
+
 export default function Home() {
   return (
     <div className="wrap">
