@@ -1,0 +1,29 @@
+{
+  "name": "frontline-rush",
+  "version": "1.0.0",
+  "description": "Just a mobile game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thegeekeuhhhhhhh-industries/frontline-rush.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Thegeekeuhhhhhhh-industries/frontline-rush/issues"
+  },
+  "homepage": "https://github.com/Thegeekeuhhhhhhh-industries/frontline-rush#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/cli": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^4.0.0"
+  }
+}
